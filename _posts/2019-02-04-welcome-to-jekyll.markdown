@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Welcome to Jekyll by Forest!
+title: Welcome to Jekyll by Forestry!
 categories:
 - Jekyll
 image: assets/images/demo1.jpg
